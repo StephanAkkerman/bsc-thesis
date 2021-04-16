@@ -6,3 +6,6 @@ This is a simple script used for gathering the data using Binance's API.
 
 # Benchmark_Comparison
 This code compares the output of the reinforcement learning agent with common benchmarks. The benchmarks are: buy and hold, RSI divergence, SMA crossover.
+
+# TACorrelation
+Displays a heatmap of absolute correlation of technical analysis indicators in the same group. 
