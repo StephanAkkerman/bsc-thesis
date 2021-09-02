@@ -1,5 +1,5 @@
 # Note
-For the update code, check out https://github.com/StephanAkkerman/TensorTrade.
+For the updated code, check out https://github.com/StephanAkkerman/TensorTrade.
 
 # Main program
 The main program is TT_v4.py, this program consists of the reinforcement learning and is combined with all the other scripts in this repository.
