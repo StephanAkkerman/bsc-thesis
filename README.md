@@ -1,7 +1,8 @@
+
+# 2021 AI Bachelor's Thesis
 > **Note**
 > For the most recent version of this codebase, please visit [tensortrade](https://github.com/StephanAkkerman/TensorTrade) on GitHub.
 
-# Overview
 ## Main Program (main.py)
 The heart of this project, main.py integrates reinforcement learning with the other scripts found in this repository.
 
