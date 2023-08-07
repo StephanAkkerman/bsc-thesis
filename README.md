@@ -1,14 +1,20 @@
-# Note
-For the updated code, check out https://github.com/StephanAkkerman/TensorTrade.
+# Updated Code
+For the most recent version of this codebase, please visit [tensortrade](https://github.com/StephanAkkerman/TensorTrade) on GitHub.
 
-# Main program
-The main program is main.py, this program consists of the reinforcement learning and is combined with all the other scripts in this repository.
+# Overview
+## Main Program (main.py)
+The heart of this project, main.py integrates reinforcement learning with the other scripts found in this repository.
 
-# BinanceData
-This is a simple script used for gathering the data using Binance's API.
+## BinanceData
+A straightforward script dedicated to data collection using Binance's API.
 
-# Benchmark_Comparison
-This code compares the output of the reinforcement learning agent with common benchmarks. The benchmarks are: buy and hold, RSI divergence, SMA crossover.
+## Benchmark_Comparison
+Evaluate the performance of the reinforcement learning agent by contrasting its output with established benchmarks, including:
 
-# TACorrelation
-Displays a heatmap of absolute correlation of technical analysis indicators in the same group. 
+- Buy and Hold
+- RSI Divergence
+- SMA Crossover
+
+## TACorrelation
+Generate a heatmap that visualizes the absolute correlation among technical analysis indicators within the same group.
+
