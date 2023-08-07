@@ -1,5 +1,5 @@
-# Updated Code
-For the most recent version of this codebase, please visit [tensortrade](https://github.com/StephanAkkerman/TensorTrade) on GitHub.
+> **Note**
+> For the most recent version of this codebase, please visit [tensortrade](https://github.com/StephanAkkerman/TensorTrade) on GitHub.
 
 # Overview
 ## Main Program (main.py)
